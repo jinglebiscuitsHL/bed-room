@@ -1,3 +1,4 @@
 this is my bed room
 color: blue
 floor: hardwood
+walls: plaster
