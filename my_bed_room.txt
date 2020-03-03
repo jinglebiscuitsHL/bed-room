@@ -1,1 +1,2 @@
 this is my bed room
+color: blue
